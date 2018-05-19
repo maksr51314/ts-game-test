@@ -1,0 +1,26 @@
+{
+  "name": "ts-pixi-game",
+  "version": "1.0.0",
+  "description": "simple game",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "game"
+  ],
+  "author": "max",
+  "license": "ISC",
+  "dependencies": {
+    "pixi-particles": "^3.0.0",
+    "pixi.js": "^4.7.3",
+    "tween.js": "^16.6.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^4.3.0",
+    "typescript": "^2.8.3",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  }
+}
